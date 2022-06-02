@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **patil66anu@gmail.com**,**8805437671 / 9420699866**
+- 📫 How to reach me **patil66anu@gmail.com** , **8805437671 / 9420699866**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
